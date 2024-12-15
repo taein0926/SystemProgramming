@@ -135,6 +135,11 @@ char* format_date(Date date, char* buffer, size_t buffer_size) {
 
 date_time_utils 라이브러리를 동적으로 로드하고 특정 함수를 검색해 런타임에 사용합니다.
 
+실행 결과:
+
+![image](https://github.com/user-attachments/assets/15a6e133-d7be-46fc-944a-98cdacc27c55)
+
+
 ```c
 #include <stdio.h>
 #include <dlfcn.h>
@@ -181,6 +186,11 @@ int main() {
 ### test_date_time_utils.c
 
 date_time_utils라이브러리를 사용하는 예시입니다.
+
+실행 결과:
+
+![image](https://github.com/user-attachments/assets/475c6065-4a90-45ac-b8b1-6abb58fe6aae)
+
 
 ```c
 #include "date_time_utils.h"
