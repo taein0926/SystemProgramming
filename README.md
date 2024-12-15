@@ -1,4 +1,4 @@
-# Date Utility Library
+# Date time Utils Library
 본 프로젝트는 Static Linking, dlsym을 사용한 Dynamic Linking을 각각 구현하는 것을 목표로 하였습니다.
 
 날짜 유틸리티 라이브러리는 아래의 기능들을 제공합니다.
